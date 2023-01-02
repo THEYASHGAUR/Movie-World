@@ -3,7 +3,7 @@ import './App.css';
 import searchIcon from './search2.svg';
 import MovieCard from './MovieCard.jsx';
 
-const API_URL = 'http://www.omdbapi.com?apikey=8b2be3bd';
+const API_URL = 'https://www.omdbapi.com?apikey=8b2be3bd';
 
 // const movie1 ={
 //     "Title": "Spiderman the Verse",
